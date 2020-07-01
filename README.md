@@ -1,4 +1,3 @@
-MapleLib2 by haha01haha01;
-based on MapleLib by Snow;
-based on WzLib by JonyLeeson;
-based on information from Fiel\Koolk.
+# MapleLib-Core
+Original from https://github.com/hadeutscher/MapleLib converted to dotnet standard 2.0 and can be find in nuget https://www.nuget.org/packages/MapleLib-Core/
+
